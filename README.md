@@ -9,6 +9,8 @@ Replaces with a less annoying version:
 - Lament of the Highborne song (sylvannas Banshees) - very short
 
 ## How to
+[Download by clicking on 'Code' -> Download zip](https://github.com/Satela-wow/wow-MuteAnnoyingSounds/archive/refs/heads/main.zip).
+
 Simply copy the .mpq file into your WoW folder's /Data directory, do not rename it
 
 To test that it worked, you can try playing one of the sounds in-game by running a command in chat, for example:
