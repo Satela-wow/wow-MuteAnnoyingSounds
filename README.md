@@ -13,6 +13,8 @@ Replaces with a less annoying version:
 
 Simply copy the .mpq file into your WoW folder's /Data directory, do not rename it
 
+-----------------
+
 To test that it worked, you can try playing one of the sounds in-game by running a command in chat, for example:
 ```
 /run PlaySound(15852)
@@ -20,4 +22,4 @@ To test that it worked, you can try playing one of the sounds in-game by running
 /train
 ```
 
-If you did it correctly, you should hear nothing when you run these.
+If you did it correctly, you should hear nothing, or your short replacement sound, when you run these commands.
