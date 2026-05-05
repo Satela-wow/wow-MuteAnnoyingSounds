@@ -17,6 +17,7 @@ To test that it worked, you can try playing one of the sounds in-game by running
 ```
 /run PlaySound(15852)
 /run PlaySound(10896)
+/train
 ```
 
 If you did it correctly, you should hear nothing when you run these.
